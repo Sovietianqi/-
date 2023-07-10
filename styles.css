@@ -12,3 +12,9 @@
     border-bottom: none;
   }
 }
+body {
+    background-image: url('./Plugin/sov.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
